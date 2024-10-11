@@ -1,16 +1,15 @@
 ---
 title: Ui Modal
 ---
-<SwmSnippet path="/src/components/my-component/my-component.tsx" line="28">
+<SwmSnippet path="/src/components/my-component/my-component.tsx" line="29">
 
 ---
 
 Esta es la implementación de como esta desarrollado el componente
 
 ```tsx
-
   render() {
-    return <div>Hello, World! I'm {this.getText()}</div>;
+    return <div>Hello, World! I'm Elizabeth zanabria chuquipiondo {this.getText()}</div>;
   }
 ```
 
